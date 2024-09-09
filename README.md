@@ -2,7 +2,6 @@
 
 A powerful and easy-to-use image compression tool designed to optimize and reduce the size of your images without compromising quality.
 
-![Image Compressor](path/to/screenshot.png)
 
 ## 🌟 Features
 
