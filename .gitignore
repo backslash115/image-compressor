@@ -1,2 +1,9 @@
 .venv/
 myenv/
+
+__pycache__/
+*.pyc
+
+# Ignore build and dist folders
+build/
+dist/
