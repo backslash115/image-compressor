@@ -8,3 +8,6 @@ __pycache__/
 # Ignore build and dist folders
 build/
 dist/
+
+#ignore license file
+license.txt
